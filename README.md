@@ -1,2 +1,2 @@
 # constructor-hangman
-Play in terminal!
+Play in Command Line!
